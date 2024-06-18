@@ -1,9 +1,9 @@
 {
   "title": "Ramon Cheno | Portafolio",
-  "description": "Soy Ramon, programador fullstack jr con ganas de aprender ",
+  "description": "Soy Ramón, programador fullstack jr con ganas de aprender ",
   "image": "/HeroImage.jpg",
   "avatar": "/HeroImage.jpg",
-  "name": "Ramon Cheno",
+  "name": "Ramón Cheno",
   "skill": "Ingeniero en Sistemas Computacionales, Programador jr",
   "location": "Fronteras, Sonora, Mexico",
   "media": {
@@ -12,7 +12,7 @@
     "github": "https://github.com/RamonCheno",
     "likedin": "https://www.linkedin.com/in/ramon-cheno-ocano/"
   },
-  "about": "Soy un joven desarrollador con una insaciable sed de conocimiento y una fuerte determinacion para sobresalir en todo lo que hago. Mi formacion academica me ha dado una solida base en diversos lenguajes de programacion y metodologias de desarrollo, pero lo que realmente me distingue es mi entusiasmo por aprender y mi disposicion para enfrentar nuevos desafios.",
+  "about": "Soy un joven desarrollador con una insaciable sed de conocimiento y una fuerte determinación para sobresalir en todo lo que hago. Mi formación académica me ha dado una sólida base en diversos lenguajes de programación y metodologías de desarrollo, pero lo que realmente me distingue es mi entusiasmo por aprender y mi disposición para enfrentar nuevos desafíos.",
   "technologies": [
     {
       "icon": "devicon-javascript-plain",
@@ -129,10 +129,10 @@
   ],
   "extras": [
     {
-      "image": "https://drive.google.com/file/d/1yidEBSqSvwX-IJEgsgiwo585LLmwp7sS/view?usp=sharing",
+      "image": "https://drive.google.com/file/d/1XoD4h9a2PI4_q8cxh807X5hmWAsFiCla/view?usp=drive_link",
       "title": "Master API REST NodeJS: Arquitectura limpia CRUD/LOGIN",
       "description": "Certificado de finalizacion en el curso de Arquitectura limpia en la plataforma Udemy.",
-      "url": ""
+      "url": "https://www.udemy.com/certificate/UC-73899588-8521-41f1-91a6-544856c5fefa/"
     }
   ]
 }
