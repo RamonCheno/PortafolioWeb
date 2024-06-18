@@ -2,7 +2,7 @@ import reflex as rx
 from portafolio import data
 from portafolio.styles.styles import BASE_STYLE, MAX_WIDTH, STYLESHEETS, EmSize, Size
 from portafolio.views.about import about
-# from portafolio.views.extra import extra
+from portafolio.views.extra import extra
 from portafolio.views.footer import footer
 from portafolio.views.header import header
 from portafolio.views.info import info
@@ -22,7 +22,7 @@ def index() -> rx.Component:
             info("Experiencia", DATA.experience),
             info("Proyectos", DATA.projects),
             info("Formación", DATA.training),
-            # extra(DATA.extras),
+            extra(DATA.extras),
             rx.divider(),
             footer(DATA.media),
             spacing=Size.MEDIUM.value,
