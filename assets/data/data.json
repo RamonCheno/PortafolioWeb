@@ -1,0 +1,130 @@
+{
+  "title": "Ramon Cheno | Portafolio",
+  "description": "Soy Ramon, programador fullstack jr con ganas de aprender ",
+  "image": "/HeroImage.jpg",
+  "avatar": "/HeroImage.jpg",
+  "name": "Ramon Cheno",
+  "skill": "Ingeniero en Sistemas Computacionales, Programador jr",
+  "location": "Fronteras, Sonora, Mexico",
+  "media": {
+    "email": "ramonchenodeveloper@gmail.com",
+    "cv": "https://drive.google.com/file/d/1kKpcqf8T3joO65H5f0pxeAsbPCYtrgku/view?usp=sharing",
+    "github": "https://github.com/RamonCheno",
+    "likedin": "https://www.linkedin.com/in/ramon-cheno-ocano/"
+  },
+  "about": "Soy un joven desarrollador con una insaciable sed de conocimiento y una fuerte determinacion para sobresalir en todo lo que hago. Mi formacion academica me ha dado una solida base en diversos lenguajes de programacion y metodologias de desarrollo, pero lo que realmente me distingue es mi entusiasmo por aprender y mi disposicion para enfrentar nuevos desafios.",
+  "technologies": [
+    {
+      "icon": "devicon-javascript-plain",
+      "name": "JavaScript"
+    },
+    {
+      "icon": "devicon-react-original",
+      "name": "React Js"
+    },
+    {
+      "icon": "devicon-flutter-plain",
+      "name": "Flutter"
+    },
+    {
+      "icon": "devicon-mysql-original",
+      "name": "MySql"
+    },
+    {
+      "icon": "devicon-nodejs-plain-wordmark",
+      "name": "Node Js"
+    },
+    {
+      "icon": "devicon-express-original",
+      "name": "Express Js"
+    }
+  ],
+  "experience": [
+    {
+      "icon": "terminal",
+      "title": "Grupo Mexico Compania Constructora",
+      "subtitle": "Practicante de Ingenieria en Sistemas Computacionales",
+      "description": "Desarrollo de un proyecto de lista de asistencia laboral para la titulacion.",
+      "date": "Agosto/2023 - Diciembre/2023"
+    }
+  ],
+  "projects": [
+    {
+      "icon": "cloud",
+      "title": "Api de lista de tareas",
+      "subtitle": "Proyecto personal",
+      "description": "proyecto personal de sobre una api para una lista de tareas",
+      "technologies": [
+        {
+          "icon": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "icon": "devicon-nodejs-plain-wordmark",
+          "name": "Node Js"
+        },
+        {
+          "icon": "devicon-express-original",
+          "name": "Express JS"
+        },
+        {
+          "icon": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ],
+      "github": "https://github.com/RamonCheno/trello-api"
+    },
+    {
+      "icon": "smartphone",
+      "title": "Aplicacion de lista de agendas",
+      "subtitle": "Proyecto personal",
+      "description": "proyecto personal de una aplicacion movil de lista de agendas",
+      "technologies": [
+        {
+          "icon": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ],
+      "image": "/proyectImage/project2.jpg",
+      "github": "https://github.com/RamonCheno/agenda-app"
+    },
+    {
+      "icon": "smartphone",
+      "title": "Aplicacion de lista de asistencia escolar",
+      "subtitle": "Proyecto escolar",
+      "description": "Proyecto escolar sobre una aplicacion movil de lista de asistencia escolar",
+      "technologies": [
+        {
+          "icon": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ],
+      "image": "/proyectImage/project3.jpg",
+      "github": "https://github.com/RamonCheno/AppListaAsistencia"
+    },
+    {
+      "icon": "joystick",
+      "title": "Juego de memograma",
+      "subtitle": "Proyecto personal",
+      "description": "Primer Proyecto desarrollado en el año 2020 utilizndo JavaFX con el objetivo de hacer un juego de memograma",
+      "technologies": [
+        {
+          "icon": "devicon-java-plain colored",
+          "name": "Java"
+        }
+      ],
+      "image": "/proyectImage/project1.jpg",
+      "github": "https://github.com/RamonCheno/juego_memograma"
+    }
+  ],
+  "training": [
+    {
+      "icon": "graduation-cap",
+      "title": "Universidad de la Sierra, Moctezuma, Son, Mex",
+      "subtitle": "Licenciatura en Ingenieria en Sistemas Computacionales",
+      "description": "Aprendi temas sobre la programacion, redes y base de datos.",
+      "date": "2019-2023",
+      "certificate": ""
+    }
+  ]
+}
