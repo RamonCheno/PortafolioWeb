@@ -51,13 +51,13 @@
   "projects": [
     {
       "icon": "cloud",
-      "title": "Api de lista de tareas",
+      "title": "Master Rest api con express y MongoDB",
       "subtitle": "Proyecto personal",
-      "description": "proyecto personal de sobre una api para una lista de tareas",
+      "description": "El proyecto detalla una API para llevar un control de productos y usuarios mediante registros en la base de datos",
       "technologies": [
         {
-          "icon": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "icon": "devicon-typescript-plain",
+          "name": "TypeScript"
         },
         {
           "icon": "devicon-nodejs-plain-wordmark",
@@ -68,11 +68,12 @@
           "name": "Express JS"
         },
         {
-          "icon": "devicon-postgresql-plain",
-          "name": "PostgreSQL"
+          "icon": "devicon-mongodb-plain",
+          "name": "MongoDB"
         }
       ],
-      "github": "https://github.com/RamonCheno/trello-api"
+      "github": "https://github.com/RamonCheno/RestApi-Technology",
+      "url": "https://restapi-technology.onrender.com/api/v1/docs/"
     },
     {
       "icon": "smartphone",
