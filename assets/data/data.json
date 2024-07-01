@@ -7,12 +7,12 @@
   "skill": "Ingeniero en Sistemas Computacionales, Programador jr",
   "location": "Fronteras, Sonora, Mexico",
   "media": {
-    "email": "ramonchenodeveloper@gmail.com",
+    "email": "francisco.cheno.ocano@gmail.com",
     "cv": "https://drive.google.com/file/d/1kKpcqf8T3joO65H5f0pxeAsbPCYtrgku/view?usp=sharing",
     "github": "https://github.com/RamonCheno",
     "likedin": "https://www.linkedin.com/in/ramon-cheno-ocano/"
   },
-  "about": "Soy un joven desarrollador con una insaciable sed de conocimiento y una fuerte determinación para sobresalir en todo lo que hago. Mi formación académica me ha dado una sólida base en diversos lenguajes de programación y metodologías de desarrollo, pero lo que realmente me distingue es mi entusiasmo por aprender y mi disposición para enfrentar nuevos desafíos.",
+  "about": "Soy ingeniero profesional y activo participante del trabajo colaborativo en equipos, se reconocer las habilidades individuales de mis compañeros de equipo y acercarme a ellos para adquirir o mejorar mis habilidades para contribuir con el equipo. Me gusta desarrollar en entornos web y móvil, donde las personas pueda satisfacer sus necesidades.",
   "technologies": [
     {
       "icon": "devicon-javascript-plain",
@@ -41,8 +41,22 @@
   ],
   "experience": [
     {
+      "icon": "briefcase-business",
+      "title": "Mexico Compania Constructora",
+      "subtitle": "Ayudante genera en mantenimiento maquinaria",
+      "description": "Ayudante general en el área de mantenimiento maquinaría en la México Compañia Constructora en el sector Nacozari, Sonora, México",
+      "date": "Mayo/2024 - Actual"
+    },
+    {
       "icon": "terminal",
-      "title": "Grupo Mexico Compania Constructora",
+      "title": "Estetica Jesi",
+      "subtitle": "Android Developer",
+      "description": "Creación de una aplicación móvil para el manejo de citas, usando almacenamiento local con SQLite e una interfaz intuitiva para la cliente",
+      "date": "Mayo/2024 - Actual"
+    },
+    {
+      "icon": "terminal",
+      "title": "Mexico Compania Constructora",
       "subtitle": "Practicante de Ingenieria en Sistemas Computacionales",
       "description": "Desarrollo de un proyecto de lista de asistencia laboral para la titulacion.",
       "date": "Agosto/2023 - Diciembre/2023"
@@ -87,7 +101,7 @@
         }
       ],
       "image": "/proyectImage/project2.jpg",
-      "github": "https://github.com/RamonCheno/agenda-app"
+      "github": "https://github.com/RamonCheno/new_agenda_app"
     },
     {
       "icon": "smartphone",
@@ -121,10 +135,18 @@
   "training": [
     {
       "icon": "graduation-cap",
-      "title": "Universidad de la Sierra, Moctezuma, Son, Mex",
+      "title": "Universidad de la Sierra, Moctezuma, Son, Méx",
       "subtitle": "Licenciatura en Ingenieria en Sistemas Computacionales",
-      "description": "Aprendi temas sobre la programacion, redes y base de datos.",
+      "description": "Carrera universitaria",
       "date": "Agosto/2019-Diciembre/2023",
+      "certificate": ""
+    },
+    {
+      "icon": "graduation-cap",
+      "title": "Escuela Preparatoria General Enrique Esqueda, Esqueda, Son, Méx",
+      "subtitle": "Tecnico Informatico y Fisico-Matematico",
+      "description": "Carrera Tecnica",
+      "date": "Agosto/2016-junio/2019",
       "certificate": ""
     }
   ],
