@@ -41,21 +41,35 @@
   ],
   "experience": [
     {
+      "icon": "smartphone",
+      "title": "PacificSoft Inc",
+      "subtitle": "Desarrollador Movil",
+      "description": "Desarrollo de una aplicacion movil de inventario con conexion a punto de venta de pacific Soft.",
+      "date": "Febrero/2025 - Actual"
+    },
+    {
+      "icon": "shopping-cart",
+      "title": "PacificSoft Inc",
+      "subtitle": "Desarrollador Web",
+      "description": "Desarrollo de Tienda electronica con conexion a punto de venta de pacific Soft.",
+      "date": "Febrero/2025 - Actual"
+    },
+    {
       "icon": "wrench",
       "title": "Mexico Compania Constructora",
       "subtitle": "Ayudante genera en mantenimiento maquinaria",
       "description": "Ayudante general en el área de mantenimiento maquinaría en la México Compañia Constructora en el sector Nacozari, Sonora, México",
-      "date": "Mayo/2024 - Actual"
+      "date": "Mayo/2024 - Febrero/2025"
     },
     {
-      "icon": "terminal",
+      "icon": "smartphone",
       "title": "Estetica Jesi",
       "subtitle": "Android Developer",
       "description": "Creación de una aplicación móvil para el manejo de citas, usando almacenamiento local con SQLite e una interfaz intuitiva para la cliente",
       "date": "Mayo/2024 - Actual"
     },
     {
-      "icon": "terminal",
+      "icon": "smartphone",
       "title": "Mexico Compania Constructora",
       "subtitle": "Practicante de Ingenieria en Sistemas Computacionales",
       "description": "Desarrollo de un proyecto de lista de asistencia laboral para la titulacion.",
