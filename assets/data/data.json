@@ -1,10 +1,10 @@
 {
   "title": "Ramon Cheno | Portafolio",
-  "description": "Soy Ramón, programador fullstack jr con ganas de aprender ",
+  "description": "Ingeniero en Sistemas Computacionales, Programador movil y backend",
   "image": "/HeroImage.jpg",
   "avatar": "/HeroImage.jpg",
   "name": "Ramón Cheno",
-  "skill": "Ingeniero en Sistemas Computacionales, Programador jr",
+  "skill": "Ingeniero en Sistemas Computacionales, Programador movil y backend",
   "location": "Fronteras, Sonora, Mexico",
   "media": {
     "email": "francisco.cheno.ocano@gmail.com",
@@ -12,23 +12,19 @@
     "github": "https://github.com/RamonCheno",
     "likedin": "https://www.linkedin.com/in/ramon-cheno-ocano/"
   },
-  "about": "Soy ingeniero profesional y activo participante del trabajo colaborativo en equipos, se reconocer las habilidades individuales de mis compañeros de equipo y acercarme a ellos para adquirir o mejorar mis habilidades para contribuir con el equipo. Me gusta desarrollar en entornos web y móvil, donde las personas pueda satisfacer sus necesidades.",
+  "about": "Soy un desarrollador de software e ingeniero en Sistemas Computacionales apasionado por crear soluciones eficientes que aporten valor real. Me especializo en desarrollo mobile con Flutter y también tengo experiencia en tecnologías backend como Node.js, Express y bases de datos SQL como MySql.\nMe destaco por mi capacidad para adaptarme rápidamente, trabajar en equipo y aprender nuevas tecnologías. He participado tanto en proyectos empresariales como personales, enfrentando retos reales de desarrollo e integración con APIs, autenticación, y manejo de datos en tiempo real.\nMi objetivo es seguir creciendo como desarrollador full-stack, aportando a equipos de trabajo donde pueda seguir aprendiendo y contribuyendo con soluciones innovadoras.",
   "technologies": [
+    {
+      "icon": "devicon-mysql-original",
+      "name": "MySql"
+    },
     {
       "icon": "devicon-javascript-plain",
       "name": "JavaScript"
     },
     {
-      "icon": "devicon-react-original",
-      "name": "React Js"
-    },
-    {
       "icon": "devicon-flutter-plain",
       "name": "Flutter"
-    },
-    {
-      "icon": "devicon-mysql-original",
-      "name": "MySql"
     },
     {
       "icon": "devicon-nodejs-plain-wordmark",
@@ -37,21 +33,30 @@
     {
       "icon": "devicon-express-original",
       "name": "Express Js"
+    },
+    {
+      "icon": "devicon-express-original",
+      "name": "NestJS"
+    },
+    {
+      "icon": "devicon-nestjs-original",
+      "name": "PHP"
     }
+
   ],
   "experience": [
-    {
-      "icon": "smartphone",
-      "title": "PacificSoft Inc",
-      "subtitle": "Desarrollador Movil",
-      "description": "Desarrollo de una aplicacion movil de inventario con conexion a punto de venta de pacific Soft.",
-      "date": "Febrero/2025 - Actual"
-    },
     {
       "icon": "shopping-cart",
       "title": "PacificSoft Inc",
       "subtitle": "Desarrollador Web",
-      "description": "Desarrollo de Tienda electronica con conexion a punto de venta de pacific Soft.",
+      "description": "Desarrollar una Tienda electronica en php con conexion a punto de venta de pacific Soft.",
+      "date": "Febrero/2025 - Actual"
+    },
+    {
+      "icon": "smartphone",
+      "title": "PacificSoft Inc",
+      "subtitle": "Desarrollador Movil",
+      "description": "Desarrollar una aplicacion movil de un inventario en flutter con conexion a punto de venta de pacific Soft.",
       "date": "Febrero/2025 - Actual"
     },
     {
@@ -64,7 +69,7 @@
     {
       "icon": "smartphone",
       "title": "Estetica Jesi",
-      "subtitle": "Android Developer",
+      "subtitle": "Desarrollador Movil",
       "description": "Creación de una aplicación móvil para el manejo de citas, usando almacenamiento local con SQLite e una interfaz intuitiva para la cliente",
       "date": "Mayo/2024 - Actual"
     },
