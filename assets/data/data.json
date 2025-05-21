@@ -8,7 +8,7 @@
   "location": "Fronteras, Sonora, Mexico",
   "media": {
     "email": "francisco.cheno.ocano@gmail.com",
-    "cv": "https://drive.google.com/file/d/1kKpcqf8T3joO65H5f0pxeAsbPCYtrgku/view?usp=sharing",
+    "cv": "https://drive.google.com/file/d/1hcgNRri3ioRhIoC7vFQcsOuQ2FFhmhpG/view?usp=sharing",
     "github": "https://github.com/RamonCheno",
     "likedin": "https://www.linkedin.com/in/ramon-cheno-ocano/"
   },
@@ -35,11 +35,11 @@
       "name": "Express Js"
     },
     {
-      "icon": "devicon-express-original",
+      "icon": "devicon-nestjs-original",
       "name": "NestJS"
     },
     {
-      "icon": "devicon-nestjs-original",
+      "icon": "devicon-php-plain",
       "name": "PHP"
     }
 
