@@ -8,6 +8,7 @@ def about(description: str) -> rx.Component:
         rx.text(
             description, 
             white_space="pre-line", 
-            padding="1em"
+            padding="1em",
+            text_align="justify"
         )
     )
