@@ -12,7 +12,7 @@
     "github": "https://github.com/RamonCheno",
     "likedin": "https://www.linkedin.com/in/ramon-cheno-ocano/"
   },
-  "about": "Soy un desarrollador de software e ingeniero en Sistemas Computacionales apasionado por crear soluciones eficientes que aporten valor real. Me especializo en desarrollo mobile con Flutter y también tengo experiencia en tecnologías backend como Node.js, Express y bases de datos SQL como MySql.\nMe destaco por mi capacidad para adaptarme rápidamente, trabajar en equipo y aprender nuevas tecnologías. He participado tanto en proyectos empresariales como personales, enfrentando retos reales de desarrollo e integración con APIs, autenticación, y manejo de datos en tiempo real.\nMi objetivo es seguir creciendo como desarrollador full-stack, aportando a equipos de trabajo donde pueda seguir aprendiendo y contribuyendo con soluciones innovadoras.",
+  "about": "Soy un desarrollador de software e ingeniero en Sistemas Computacionales apasionado por crear soluciones eficientes que aporten valor real. Me especializo en desarrollo mobile con Flutter y también tengo experiencia en tecnologías backend como Node.js, Express y bases de datos SQL como MySql.\nMe destaco por mi capacidad para adaptarme rápidamente, trabajar en equipo y aprender nuevas tecnologías. He participado tanto en proyectos empresariales como personales, enfrentando retos reales de desarrollo e integración con APIs, autenticación, y manejo de datos en tiempo real. \nMi objetivo es seguir creciendo como desarrollador full-stack, aportando a equipos de trabajo donde pueda seguir aprendiendo y contribuyendo con soluciones innovadoras.",
   "technologies": [
     {
       "icon": "devicon-mysql-original",
